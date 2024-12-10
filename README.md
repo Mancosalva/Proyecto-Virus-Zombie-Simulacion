@@ -8,9 +8,6 @@
 1. [Descripción](#descripción)
 2. [Características](#características)
 3. [Instalación](#instalación)
-4. [Uso](#uso)
-5. [Contribución](#contribución)
-6. [Licencia](#licencia)
 
 ## Descripción
 
