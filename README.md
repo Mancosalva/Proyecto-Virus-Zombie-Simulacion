@@ -25,8 +25,8 @@ Este proyecto se basa en la simulacion de una enfermadad zombie, siendo este un 
 
 Antes de instalar este proyecto, asegúrate de tener instalados:
 
-- import tkinter as tk
-- import numpy as np
+- tkinter ya deberia de venir por defecto en la instalación de python
+- pip install numpy
 
 ### Instrucciones de instalación
 
