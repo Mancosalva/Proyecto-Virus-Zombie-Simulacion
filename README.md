@@ -11,13 +11,13 @@
 
 ## Descripción
 
-Este proyecto se basa en la simulacion de una enfermadad zombie, siendo este un automata celular basado el juego de la vida de John Horton Conway de 1970
+Este proyecto se basa en la simulacion de una enfermadad zombie, siendo este un automata celular basado el juego de la vida de John Horton Conway de 1970.
 
 ## Características
 
-- Por cada infectado que una persona sana tenga como vecino tiene un probabilidad de ser infectado por ejemplo por cada vecino hay un 25% de probabilidad de ser infectado esto quiere decir que con 4 infectados vecinos la infección es asegurada 
-- Por cada persona sana que un infectado tenga como vecino tiene un probabilidad de ser asesinado por ejemplo por cada vecino hay un 20% de probabilidad de ser asesinado si se es infectado esto quiere decir que con 5 vecinos sanos la muerte es asegurada es asegurada 
-- Si despues de cierta cantidad de iteraciones una persona infectada no es asesinada estas se convertirs en una persona inmune la cual comparte las propiedades de los vecinos sanos y además no puede volver a ser infectada
+- Por cada infectado que una persona sana tenga como vecino tiene un probabilidad de ser infectado por ejemplo por cada vecino hay un 25% de probabilidad de ser infectado esto quiere decir que con 4 infectados vecinos la infección es asegurada.
+- Por cada persona sana que un infectado tenga como vecino tiene un probabilidad de ser asesinado por ejemplo por cada vecino hay un 20% de probabilidad de ser asesinado esto quiere decir que con 5 vecinos sanos la muerte de una persona infectada es asegurada.
+- Si despues de cierta cantidad de iteraciones una persona infectada no es asesinada estas se convertira en una persona inmune la cual comparte las propiedades de los vecinos sanos y además no puede volver a ser infectada.
 
 ## Instalación
 
